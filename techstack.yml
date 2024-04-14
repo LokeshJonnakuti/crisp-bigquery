@@ -1,0 +1,984 @@
+repo_name: LokeshJonnakuti/crisp-bigquery
+report_id: 1f20f8204f416132feaa99424193b8c8
+version: 0.1
+repo_type: Public
+timestamp: '2024-04-14T10:57:39+00:00'
+requested_by: winwiz1
+provider: github
+branch: master
+detected_tools_count: 69
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery
+  detection_source: Repo Metadata
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: server/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 01:33:37.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  version: 14.15.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/Dockerfile
+  detection_source: Dockerfile
+  last_updated_by: winwiz1
+  last_updated_on: 2019-11-23 10:55:34.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 17.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: Redux
+  description: Predictable state container for JavaScript apps
+  website_url: https://redux.js.org/
+  version: 4.0.5
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/4074/13142323.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: Semantic UI
+  description: A UI Component library implemented using a set of specifications designed
+    around natural language
+  website_url: http://semantic-ui.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1106/semantic-ui.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/package.json
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: css-loader
+  description: Helps webpack to collect CSS from all the css files
+  website_url: https://github.com/webpack-contrib/css-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/package.json
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery
+  detection_source: Repo Metadata
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/server/package.json
+  detection_source: server/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2019-11-23 10:55:34.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/package.json
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2019-11-23 10:55:34.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery
+  detection_source: Repo Metadata
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 26.6.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2019-11-23 10:55:34.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 2.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-10-10 11:27:51.000000000 Z
+- name: SuperTest
+  description: A library for testing node.js HTTP servers
+  website_url: https://www.npmjs.com/package/supertest
+  version: 6.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/server/yarn.lock
+  detection_source: server/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 01:33:37.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: winwiz1
+  last_updated_on: 2019-11-23 10:55:34.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 4.44.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/yarn.lock
+  last_updated_by: winwiz1
+  last_updated_on: 2019-11-23 10:55:34.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/server/package.json
+  detection_source: server/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2019-11-23 10:55:34.000000000 Z
+- name: Moment.js
+  description: A JavaScript date library for parsing, validating, manipulating, and
+    formatting dates
+  website_url: http://momentjs.com/
+  version: 2.29.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-10-10 11:27:51.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery
+  detection_source: Repo Metadata
+- name: Winston
+  description: a multi-transport async logging library for node.js
+  website_url: https://github.com/winstonjs/winston
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/6668/9682013.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/server/package.json
+  detection_source: server/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-07-25 07:24:23.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: server/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 01:33:37.000000000 Z
+  vulnerabilities:
+  - name: qs vulnerable to Prototype Pollution
+    cve_id: CVE-2022-24999
+    cve_url: https://github.com/advisories/GHSA-hrpp-h998-j3pp
+    detected_date: Dec 7
+    severity: high
+    first_patched: 4.17.3
+  - name: Express.js Open Redirect in malformed URLs
+    cve_id: CVE-2024-29041
+    cve_url: https://github.com/advisories/GHSA-rv95-896h-c2vc
+    detected_date: Mar 26
+    severity: moderate
+    first_patched: 4.19.2
+- name: moment
+  description: Parse, validate, manipulate, and display dates
+  package_url: https://www.npmjs.com/moment
+  version: 2.29.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15847/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-10-10 11:27:51.000000000 Z
+  vulnerabilities:
+  - name: 'Path Traversal: ''dir/../../filename'' in moment.locale'
+    cve_id: CVE-2022-24785
+    cve_url: https://github.com/advisories/GHSA-8hfj-j24r-96c4
+    detected_date: Apr 9
+    severity: high
+    first_patched: 2.29.2
+  - name: Moment.js vulnerable to Inefficient Regular Expression Complexity
+    cve_id: CVE-2022-31129
+    cve_url: https://github.com/advisories/GHSA-wc69-rhjr-hc9g
+    detected_date: Jul 7
+    severity: high
+    first_patched: 2.29.4
+- name: node-fetch
+  description: A light-weight module that brings window.fetch to node.js
+  package_url: https://www.npmjs.com/node-fetch
+  version: 2.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/server/yarn.lock
+  detection_source: server/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 01:33:37.000000000 Z
+  vulnerabilities:
+  - name: node-fetch forwards secure headers to untrusted sites
+    cve_id: CVE-2022-0235
+    cve_url: https://github.com/advisories/GHSA-r683-j2x4-v87g
+    detected_date: Jan 22
+    severity: high
+    first_patched: 2.6.7
+- name: "@testing-library/jest-dom"
+  description: Custom jest matchers to test the state of the DOM
+  package_url: https://www.npmjs.com/@testing-library/jest-dom
+  version: 5.11.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: "@testing-library/react"
+  description: Simple and complete React DOM testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react
+  version: 11.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: "@types/debug"
+  description: TypeScript definitions for debug
+  package_url: https://www.npmjs.com/@types/debug
+  version: 4.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16332/default_e8196e273db814cf9be505b35dec386fafb0dbaa.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: "@types/express"
+  description: TypeScript definitions for Express
+  package_url: https://www.npmjs.com/@types/express
+  version: 4.17.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16100/default_d947c1690e032a288145c7e2491999eab3ea8ede.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: server/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 01:33:37.000000000 Z
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  version: 25.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 13.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: server/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 01:33:37.000000000 Z
+- name: "@types/node-fetch"
+  description: TypeScript definitions for node-fetch
+  package_url: https://www.npmjs.com/@types/node-fetch
+  version: 2.5.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16459/default_5ffcf8d02a3454bd25d27d236025c6d078c3b672.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/server/yarn.lock
+  detection_source: server/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 01:33:37.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 16.9.19
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 16.9.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: "@types/react-redux"
+  description: TypeScript definitions for react-redux
+  package_url: https://www.npmjs.com/@types/react-redux
+  version: 7.1.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16687/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: "@types/react-router-dom"
+  description: TypeScript definitions for React Router
+  package_url: https://www.npmjs.com/@types/react-router-dom
+  version: 5.1.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16557/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: "@types/supertest"
+  description: TypeScript definitions for SuperTest
+  package_url: https://www.npmjs.com/@types/supertest
+  version: 2.0.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16805/default_31a4e0e11d348225088320f3a5c5ea6fa49c27ad.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/server/yarn.lock
+  detection_source: server/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 01:33:37.000000000 Z
+- name: "@types/webpack-dev-server"
+  description: TypeScript definitions for webpack-dev-server
+  package_url: https://www.npmjs.com/@types/webpack-dev-server
+  version: 3.11.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17966/default_cc042fd7c0a9cf091d301af307c99c8b7b08b8bc.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 4.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 4.6.1
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: clean-webpack-plugin
+  description: A webpack plugin to remove/clean your build folder
+  package_url: https://www.npmjs.com/clean-webpack-plugin
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16068/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: compression-webpack-plugin
+  description: Prepare compressed versions of assets to serve them with Content-Encoding
+  package_url: https://www.npmjs.com/compression-webpack-plugin
+  version: 6.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16347/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: copyfiles
+  description: Copy some files
+  package_url: https://www.npmjs.com/copyfiles
+  version: 2.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16453/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-10-10 11:27:51.000000000 Z
+- name: cross-env
+  description: Run scripts that set and use environment variables across platforms
+  package_url: https://www.npmjs.com/cross-env
+  version: 7.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-03-21 01:25:51.000000000 Z
+- name: fork-ts-checker-webpack-plugin
+  description: Runs typescript type checker and linter on separate process
+  package_url: https://www.npmjs.com/fork-ts-checker-webpack-plugin
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16622/default_5a21421012fa20e57fe0aeab31228f42e7118abc.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: helmet
+  description: Help secure Express/Connect apps with various HTTP headers
+  package_url: https://www.npmjs.com/helmet
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16584/default_7be6bee773ad8b04cf2fb7e9ff82f5d7ba648dfd.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/server/yarn.lock
+  detection_source: server/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 01:33:37.000000000 Z
+- name: html-webpack-plugin
+  description: Simplifies creation of HTML files to serve your webpack bundles
+  package_url: https://www.npmjs.com/html-webpack-plugin
+  version: 4.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15841/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: http-proxy-middleware
+  description: The one-liner node.js proxy middleware for connect
+  package_url: https://www.npmjs.com/http-proxy-middleware
+  version: 0.19.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16167/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: server/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 01:33:37.000000000 Z
+- name: jest-css-modules
+  description: A Jest processor that prevents CSS module parse errors
+  package_url: https://www.npmjs.com/jest-css-modules
+  version: 2.1.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18667/default_3ed0a361a097c631ee66d5aace42497748694521.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: loglevel
+  description: Minimal lightweight logging for JavaScript
+  package_url: https://www.npmjs.com/loglevel
+  version: 1.6.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17004/default_43f23668e39c9b3381720c9c76540776b8a49167.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-10-10 11:27:51.000000000 Z
+- name: mkdirp
+  description: Recursively mkdir, like `mkdir -p`
+  package_url: https://www.npmjs.com/mkdirp
+  version: 1.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15881/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-04-18 01:38:48.000000000 Z
+- name: node-cache
+  description: Simple and fast NodeJS internal caching
+  package_url: https://www.npmjs.com/node-cache
+  version: 5.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17328/default_b39374c3a74b433364bfdbff07be26214bf186fd.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/server/yarn.lock
+  detection_source: server/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 01:33:37.000000000 Z
+- name: react-day-picker
+  description: Flexible date picker component for React
+  package_url: https://www.npmjs.com/react-day-picker
+  version: 7.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18299/default_678ce8b19e8cee1dde03f165f62525a2c9d0c034.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 17.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: react-helmet
+  description: A document head manager for React
+  package_url: https://www.npmjs.com/react-helmet
+  version: 6.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16513/default_4e3259350c525d1d859fa80a938000081d7c9db8.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: react-redux
+  description: Official React bindings for Redux
+  package_url: https://www.npmjs.com/react-redux
+  version: 7.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15984/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 2.6.3
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-02-16 08:22:50.000000000 Z
+- name: semantic-ui-react
+  description: The official Semantic-UI-React integration
+  package_url: https://www.npmjs.com/semantic-ui-react
+  version: 2.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17202/default_077b6c5a1d83537f4c2e69cb474f20509daa99ac.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: serve-favicon
+  description: Favicon serving middleware with caching
+  package_url: https://www.npmjs.com/serve-favicon
+  version: 2.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16361/default_92302d1bbf4c0f67b862869662b4f69002c94aad.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/server/yarn.lock
+  detection_source: server/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 01:33:37.000000000 Z
+- name: style-loader
+  description: Style loader module for webpack
+  package_url: https://www.npmjs.com/style-loader
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15822/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: ts-jest
+  description: A preprocessor with source maps support to help use TypeScript with
+    Jest
+  package_url: https://www.npmjs.com/ts-jest
+  version: 26.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: ts-loader
+  description: TypeScript loader for webpack
+  package_url: https://www.npmjs.com/ts-loader
+  version: 8.0.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15938/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: tsconfig-paths-webpack-plugin
+  description: Load modules according to tsconfig paths in webpack
+  package_url: https://www.npmjs.com/tsconfig-paths-webpack-plugin
+  version: 3.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17311/default_b8b4be8bd54f9619446b80b2bf448c0891101f2a.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: tslib
+  description: Runtime library for TypeScript helper functions
+  package_url: https://www.npmjs.com/tslib
+  version: 2.0.3
+  license: 0BSD
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: webpack-cli
+  description: CLI for webpack &amp; friends
+  package_url: https://www.npmjs.com/webpack-cli
+  version: 3.3.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: webpack-dev-server
+  description: Serves a webpack app. Updates the browser on changes
+  package_url: https://www.npmjs.com/webpack-dev-server
+  version: 3.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15821/default_64690bc3e49bcee57094e51a7a26c620c48dbd82.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/client/yarn.lock
+  detection_source: client/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-11-07 10:41:39.000000000 Z
+- name: winston
+  description: A logger for just about everything
+  package_url: https://www.npmjs.com/winston
+  version: 3.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16003/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/LokeshJonnakuti/crisp-bigquery/blob/master/server/yarn.lock
+  detection_source: server/package.json
+  last_updated_by: winwiz1
+  last_updated_on: 2020-07-25 07:24:23.000000000 Z
